@@ -1,1 +1,1 @@
-# sentence-structure
+# Sentence Structure and Mechanics
